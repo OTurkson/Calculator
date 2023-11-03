@@ -109,11 +109,14 @@ class Calculator:
 
     # Append an operator to the current expression
     def append_operator(self, operator):
-        self.current_expression += operator
-        self.total_expression += self.current_expression
-        self.current_expression = ""
-        self.update_total_label()
-        self.update_label()
+        if self.current_expression[-1]== operator and self.current_expression[-1] != "-":
+            return
+        else:
+            self.current_expression += operator
+            self.total_expression += self.current_expression
+            self.current_expression = ""
+            self.update_total_label()
+            self.update_label()
 
     # Create operator buttons and assign them to the grid
     def create_operator_buttons(self):
