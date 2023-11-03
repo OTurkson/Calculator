@@ -81,9 +81,8 @@ You can fork this, and make any changes as you please
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.<br>
+<img src="calc.png" width=200>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -91,7 +90,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
@@ -109,7 +108,7 @@ Don't forget to give the project a star! Thanks again!
 
 Ekow Owusu-Turkson - [@_bornofthesun](https://twitter.com/_bornofthesun) - eowusuturkson@gmail.com
 
-Project Link: [https://github.com/OTurkson/repo_name](https://github.com/OTurkson/repo_name)
+Project Link: [https://github.com/OTurkson/pyProject](https://github.com/OTurkson/pyProject)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,7 +117,6 @@ Project Link: [https://github.com/OTurkson/repo_name](https://github.com/OTurkso
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
 * [Tkinter](https://docs.python.org/3/library/tkinter.html)
 * [GitHub Copilot](https://github.com/features/copilot)
